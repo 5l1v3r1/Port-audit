@@ -1,4 +1,4 @@
-# Port-audit
+# port-_audit.py
 Python script to scan for open ports
 
 Usage: python port_audit_v2.py \<ip address\>
