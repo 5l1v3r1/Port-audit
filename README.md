@@ -1,7 +1,7 @@
 # Port-audit
 Python script to scan for open ports
 
-Usage: python port_audit_v2.py <ip address>
+Usage: python port_audit_v2.py \<ip address\>
 Example: python port_audit_v2.py 10.10.10.10
   
 Scans all TCP ports and reports back with a list of open ports. Results displayed on screen as well as to a text file.
